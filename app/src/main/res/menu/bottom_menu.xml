@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/car"
+        android:enabled="true"
+        android:icon="@drawable/car_icon"
+        android:title="@string/car" />
+
+    <item
+        android:id="@+id/walk"
+        android:icon="@drawable/walk_icon"
+        android:title="@string/walk" />
+
+    <item
+        android:id="@+id/bus"
+        android:icon="@drawable/bus_icon"
+        android:title="@string/bus" />
+
+</menu>

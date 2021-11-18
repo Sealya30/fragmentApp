@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Чем передвигаться лучше?</string>
+    <string name="car">Авто</string>
+    <string name="walk">Прогулка</string>
+    <string name="bus">Автобус</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="car_text">Передвижение на автомобиле экономит ваше время!</string>
+    <string name="walk_text">Пешие прогулки полезны для вашего здоровья! Чего не пожелай, а ходить полезно))</string>
+    <string name="bus_text">Поездка на автобусе тоже иногда нужна)</string>
+    <string name="else_button_text">Хочу иначе</string>
+</resources>
